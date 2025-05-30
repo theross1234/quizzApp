@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "366800162664",
+    "project_id": "fireship-e3b87",
+    "storage_bucket": "fireship-e3b87.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366800162664:android:fce79934ce5571bf2290dd",
+        "android_client_info": {
+          "package_name": "com.example.fireship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366800162664-drcck1b3jo73cj53g0tq01rhauopov0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHylkmObOylV2Awe2bszGXsH92eFgsurw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366800162664-drcck1b3jo73cj53g0tq01rhauopov0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366800162664-kco4unlgn8u3pq1u47i9d96gmasq5mf4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.fireship.fireship",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366800162664:android:e4856dcd00dac3f62290dd",
+        "android_client_info": {
+          "package_name": "io.fireship.fireship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366800162664-me54nakk8f39nl1hd9q978vtccompi0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.fireship.fireship",
+            "certificate_hash": "993ca7783f2d5fba67a4a9a95fa107f3dc826537"
+          }
+        },
+        {
+          "client_id": "366800162664-drcck1b3jo73cj53g0tq01rhauopov0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHylkmObOylV2Awe2bszGXsH92eFgsurw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366800162664-drcck1b3jo73cj53g0tq01rhauopov0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366800162664-kco4unlgn8u3pq1u47i9d96gmasq5mf4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.fireship.fireship",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
